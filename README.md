@@ -1,2 +1,6 @@
 # Unity2d_Project_OOP
-2D platformer game on unity
+
+# 🎮 My Unity Game
+A 2D platformer game built with Unity.  
+This repository contains the source code, assets, and documentation.  
+
