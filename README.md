@@ -8,3 +8,7 @@ A 2D platformer game built with Unity.
 
 ## 📄 Documentation
 [View Documentation](https://drive.google.com/file/d/1LvQ1AUvmzIqxa85xioFbiJjRKNnMs3fd/view?usp=drivesdk)
+
+## 📚 References
+[Tutorial](https://www.udemy.com/course/unitycourse/?couponCode=KEEPLEARNING)
+
