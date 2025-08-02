@@ -1,4 +1,4 @@
-# Unity2d_Project_OOP
+# Unity2D_Project_OOP
 
 ## 🎮 TileVania
 A 2D platformer game built with Unity.   
